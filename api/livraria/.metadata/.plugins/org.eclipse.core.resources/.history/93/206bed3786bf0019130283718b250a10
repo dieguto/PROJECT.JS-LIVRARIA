@@ -17,13 +17,13 @@ public class Autor {
 	private Long id;
 	
 	@NotNull
-	@Size(min = 3, max = 100, message = "Nome deve conter pelo menos 3 caracteres!")
+	@Size(min = 3, max = 100)
 	private String nome;
 	
-	@Size(min = 3, max = 100, message = "O e-mail é obrigatório")
+	@Size(min = 3, max = 100)
 	private String email;
 	
-	@Size(min = 3, max = 100, message = "Preencha a cidade!")
+	@Size(min = 3, max = 100)
 	private String cidade;
 
 	public Long getId() {

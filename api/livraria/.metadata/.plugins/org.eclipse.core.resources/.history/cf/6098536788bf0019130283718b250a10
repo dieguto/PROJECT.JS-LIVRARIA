@@ -23,7 +23,7 @@ public class Autor {
 	@Size(min = 3, max = 100, message = "O e-mail é obrigatório")
 	private String email;
 	
-	@Size(min = 3, max = 100, message = "Preencha a cidade!")
+	@Size(min = 3, max = 100)
 	private String cidade;
 
 	public Long getId() {

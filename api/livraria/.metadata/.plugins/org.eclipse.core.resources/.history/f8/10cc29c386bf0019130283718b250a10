@@ -20,10 +20,10 @@ public class Autor {
 	@Size(min = 3, max = 100, message = "Nome deve conter pelo menos 3 caracteres!")
 	private String nome;
 	
-	@Size(min = 3, max = 100, message = "O e-mail é obrigatório")
+	@Size(min = 3, max = 100)
 	private String email;
 	
-	@Size(min = 3, max = 100, message = "Preencha a cidade!")
+	@Size(min = 3, max = 100)
 	private String cidade;
 
 	public Long getId() {
