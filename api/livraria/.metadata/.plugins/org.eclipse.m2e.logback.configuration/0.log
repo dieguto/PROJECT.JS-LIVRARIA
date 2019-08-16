@@ -2911,3 +2911,8 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2019-08-15 15:13:39,609 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\18175158\projeto-react\api\livraria\Livraria\src\main\resources
 2019-08-15 15:13:39,611 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-08-15 15:13:39,611 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\18175158\projeto-react\api\livraria\Livraria\src\test\resources
+2019-08-16 13:19:02,262 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-08-16 13:19:24,737 [Worker-4: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 13:19:24,738 [Worker-4: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\18175158\projeto-react\api\livraria\Livraria\src\main\resources
+2019-08-16 13:19:24,740 [Worker-4: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 13:19:24,741 [Worker-4: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\18175158\projeto-react\api\livraria\Livraria\src\test\resources
